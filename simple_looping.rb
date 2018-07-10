@@ -33,7 +33,7 @@ end
 def while_iterator(number_of_times)
   i = 0
   while i <=7
-    putsphrase = "Welcome to Flatiron School's Web Development Course!"
+    puts phrase = "Welcome to Flatiron School's Web Development Course!"
     i +=1
   end
   # code your solution here using the "while" keyword
